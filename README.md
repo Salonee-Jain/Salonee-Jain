@@ -1,5 +1,5 @@
 
-<h1 align ="center">Hello I'm Saloni👋</h1>
+<h1 >Hello I'm Saloni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 Front-end web development appeals to all of my interests, it combines imagination and problem-solving, and I'm encouraged to crack the code in order to enhance it. I enjoy using responsive design concepts and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying. 
 
 ## 🛠 My skills include 
