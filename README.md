@@ -36,10 +36,10 @@ I'm a web developer and an open-source enthusiast. Developing combines imaginati
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/Salonee-Jain/Salonee-Jain">
+<!-- <a href="https://github.com/Salonee-Jain/Salonee-Jain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonee-Jain&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+ -->
 <a href="https://github.com/Salonee-Jain/Salonee-Jain">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salonee-Jain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
 </a>
