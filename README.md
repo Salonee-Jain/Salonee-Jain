@@ -1,6 +1,10 @@
 
-<h1 >Hello I'm Saloni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-I'm a web developer and an ML enthusiast. Developing combines imagination and problem-solving, and I'm encouraged to crack the code to enhance it. I enjoy using responsive design concepts and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying!
+<h1 align=center>Hello I'm Saloni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<p align="center">I'm a web developer and an ML enthusiast. Developing combines imagination and problem-solving, and I'm encouraged to crack the code to enhance it. I enjoy using responsive design concepts and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying!</p>
 
 ## 🛠 My skills include 
   <p align ="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
