@@ -16,8 +16,18 @@
   
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonee-Jain&theme=black-ice" alt="Salonee-Jain"  /></p>
+<p align="center"> 
+ 
+</p>
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://github.com/Salonee-Jain/Salonee-Jain/blob/main/imgs/bottom_header.svg)
+
 <details>
 </p>
+
+
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
@@ -25,6 +35,26 @@
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
