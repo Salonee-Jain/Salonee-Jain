@@ -23,9 +23,9 @@
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
   
 ![](https://github.com/Salonee-Jain/Salonee-Jain/blob/main/imgs/bottom_header.svg)
+</p>
 
 <details>
-</p>
 
 
 
@@ -34,27 +34,7 @@
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-
-  
-  
   </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -82,6 +62,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salonee-Jain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
 </a>
 
-
-
-
+</details>
