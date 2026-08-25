@@ -1,65 +1,133 @@
-<h1 align=center>Hello, I'm Saloni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi 👋, I'm Saloni Jain</h1>
 
-
-<p align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<p align="center">I'm a web developer and an ML enthusiast. Developing combines imagination and problem-solving, and I'm encouraged to crack the code to enhance it. I enjoy using responsive design concepts and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying!</p>
-
-## 🛠 My skills include 
-  <p align ="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  
-  ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonee-Jain&theme=black-ice" alt="Salonee-Jain"  /></p>
-<p align="center"> 
- 
-</p>
-  
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
-![](https://github.com/Salonee-Jain/Salonee-Jain/blob/main/imgs/bottom_header.svg)
-</p>
-
-<details>
-
-
-
-## 📖  What I am currently learning / improving on
-<p align="center">
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  </p>
-
-
-
-
-
-
-## 📬 Get in touch
+<h3 align="center">
+  Full Stack Software Engineer • TypeScript • React • Node.js • AWS
+</h3>
 
 <p align="center">
-   <br>
-<a target="_blank" href="https://www.linkedin.com/in/saloni--jain/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:salonijain1248@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@saloni-jain"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/intent/follow?screen_name=SaloniJain__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>       
+  <a href="https://www.linkedin.com/in/saloni--jain/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:salonijain1248@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## &#x1f4c8; My GitHub Stats
+---
 
-<a href="https://github.com/Salonee-Jain/Salonee-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonee-Jain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## 👩‍💻 About Me
 
-<a href="https://github.com/Salonee-Jain/Salonee-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salonee-Jain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
-</a>
+I'm a **Full Stack Software Engineer** based in Australia with experience building
+scalable web applications, backend APIs, data platforms, and cloud-based systems.
 
-</details>
+I enjoy working across the stack — from designing responsive interfaces in
+**React and Vue** to building APIs and distributed services with
+**Node.js, NestJS, PostgreSQL, AWS, Redis, and Kafka**.
+
+🎓 Master of Information Technology — **UNSW Sydney**  
+💻 ~2 years of professional software engineering experience  
+☁️ Experience building and deploying applications on **AWS**  
+⚡ Interested in **distributed systems, backend architecture, performance optimisation, and AI-powered applications**  
+👩‍🏫 Teaching experience at **UNSW**, helping students with software and web development concepts
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" />
+</p>
+
+### Testing & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,github,postman" />
+</p>
+
+---
+
+## 🚀 What I've Worked On
+
+### ⚡ High-Performance Backend Systems
+
+Optimised PostgreSQL-backed APIs by identifying **N+1 query patterns**,
+restructuring database queries, introducing indexes, caching repeated lookups,
+and paginating large datasets.
+
+**Result:** reduced API response times from approximately **800ms → 200ms**.
+
+---
+
+### 🏥 Healthcare & Senior Care Platform
+
+Worked on a production senior-care platform supporting appointment booking,
+assessments, e-commerce, notifications, and customer management.
+
+Built and maintained services using:
+
+`React` • `TypeScript` • `Node.js` • `NestJS` • `PostgreSQL` • `Redis` • `AWS`
+
+Also developed a **WhatsApp-based workflow** allowing users to book appointments,
+purchase products, and interact with platform services directly through WhatsApp.
+
+---
+
+### 🏦 Insurance & FinTech
+
+Built policy purchase and **KYC onboarding journeys** for a major general insurer,
+including backend validation and submission APIs.
+
+Worked on financial and CRM platforms involving third-party integrations,
+analytics dashboards, ETL pipelines, and large nested datasets.
+
+---
+
+### 🤖 AI & Data Applications
+
+Exploring how LLMs can be integrated into real-world software systems.
+
+Built projects involving:
+
+- Natural language → SQL
+- Multi-database schema introspection
+- LLM-powered analytics
+- AI agents and tool calling
+- OpenAI & Anthropic APIs
+- MCP and agentic workflows
+- AI-assisted software development
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+System Design        ███████████████░░░
+Distributed Systems  ██████████████░░░░
+AI Engineering       ████████████████░░
+Cloud Architecture   ██████████████░░░░
